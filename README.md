@@ -106,7 +106,7 @@ real-world data and learn from experienced teams.
 
 ## 🤝 Connect With Me
 
-📧 Email: [Your Email]
+📧 Email: [dhiwaharb@gmail.com]
 
 💼 LinkedIn:
 [linkedin.com/in/dhiwahar-b-2b921a320](https://linkedin.com/in/dhiwahar-b-2b921a320)
