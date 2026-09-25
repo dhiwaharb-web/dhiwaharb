@@ -1,119 +1,152 @@
-# Hi 👋, I'm Dhiwahar B
+<!-- ========================================================= -->
+<!--                    DHIWAHAR B                            -->
+<!--              GITHUB PROFILE README                       -->
+<!-- ========================================================= -->
 
-### 📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel
+<div align="center">
 
-I'm a B.Sc. Mathematics graduate passionate about turning data into
-meaningful insights and building practical data analytics projects.
+<!-- HERO IMAGE -->
+<img src="./assets/banner.png" width="100%" alt="Dhiwahar B - Data Analyst"/>
 
-🔎 Currently looking for **Data Analyst Intern / Data Analyst Fresher**
-opportunities.
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dhiwahar+B+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Meaningful+Insights" alt="Typing SVG"/>
 
-## 👨‍💻 About Me
+<br><br>
 
-- 🎓 B.Sc. Mathematics Graduate
-- 📊 Aspiring Data Analyst
-- 🐍 Learning and working with Python for data analysis
-- 🗄️ Developing my SQL skills for data querying and analysis
-- 📈 Building dashboards using Power BI
-- 📑 Working with Excel for data analysis and reporting
-- 📊 Interested in data visualization, statistics and business insights
-- 🚀 Currently building and improving data analytics projects
-- 💼 Open to Data Analyst internships and entry-level opportunities
+<a href="https://github.com/dhiwaharb-web">
+<img src="https://img.shields.io/badge/GitHub-dhiwaharb--web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/dhiwahar-b-2b921a320/">
+<img src="https://img.shields.io/badge/LinkedIn-Dhiwahar%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🛠️ Technical Skills
-
-### Programming & Data Analysis
-- Python
-- SQL
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-### Data Visualization
-- Power BI
-- Excel Charts & Dashboards
-
-### Other
-- Statistics
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Git & GitHub
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 👨‍💻 ABOUT ME
 
-### 📞 Telecom Customer Churn Analysis
+<table>
+<tr>
 
-Power BI dashboard analyzing telecom customer churn and identifying
-patterns across customer demographics, services and account information.
+<td width="45%" align="center">
 
-**Tools:** Power BI, Data Analysis, Data Visualization
+<img src="./assets/about-me.png" width="90%" alt="About Dhiwahar"/>
 
-🔗 [View Project](https://github.com/dhiwaharb-web/PowerBI-Telecom-Customer-Churn-Analysis)
+</td>
 
----
+<td width="55%">
 
-### 🛒 Retail Sales Analytics
+### Hi there! 👋
 
-Data analytics project focused on analyzing retail sales data,
-identifying sales patterns and generating useful business insights.
+I'm **Dhiwahar B**, a **B.Sc. Mathematics graduate** and aspiring **Data Analyst**.
 
-**Tools:** Python, Pandas, Matplotlib, Data Analysis
+I enjoy working with data to discover patterns, create visualizations and generate meaningful insights.
 
-🔗 [View Project](https://github.com/dhiwaharb-web/Retail_Sales_Analytics)
+### 🎯 What I Do
 
----
+📊 Data Analysis  
+🐍 Python for Data Analytics  
+🗄️ SQL & Data Querying  
+📈 Power BI Dashboards  
+📑 Excel Analysis  
+📐 Statistical Analysis  
+🧹 Data Cleaning & EDA  
 
-### 🤖 AI Job Market Analysis
+### 🚀 Currently
 
-Data analysis project exploring trends in the AI job market using
-Python-based data analysis and visualization techniques.
+I'm strengthening my skills through hands-on projects and looking for opportunities as a:
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Data Analyst Intern / Data Analyst Fresher / Junior Data Analyst**
 
----
+</td>
 
-## 📊 What I'm Currently Learning
-
-- SQL for Data Analytics
-- Advanced Excel
-- Power BI
-- Data Cleaning & Transformation
-- Statistics for Data Analysis
-- Exploratory Data Analysis
-- Business Intelligence concepts
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Goal
+# 🛠️ TECH STACK & ECOSYSTEM
 
-My goal is to start my career as a **Data Analyst** and continuously
-develop my skills in data analysis, visualization and business
-intelligence.
+<div align="center">
 
-I'm particularly interested in opportunities where I can work with
-real-world data and learn from experienced teams.
+### 📊 DATA ANALYTICS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,mysql" height="65"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="42"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="42"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🐍 PYTHON DATA ECOSYSTEM
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="100"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔧 TOOLS & WORKFLOW
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="65"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" height="42"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 📊 DATA ANALYTICS ECOSYSTEM
 
-📧 Email: [dhiwaharb@gmail.com]
+<div align="center">
 
-💼 LinkedIn:
-[linkedin.com/in/dhiwahar-b-2b921a320](https://linkedin.com/in/dhiwahar-b-2b921a320)
-
-💻 GitHub:
-[github.com/dhiwaharb-web](https://github.com/dhiwaharb-web)
-
----
-
-⭐ Feel free to explore my repositories and projects!
+```text
+                         📊 DATA ANALYTICS
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+           🐍 PYTHON           🗄️ SQL           📑 EXCEL
+              │                 │                 │
+        ┌─────┼─────┐       ┌───┼───┐        ┌───┼───┐
+        │     │     │       │   │   │        │   │   │
+     Pandas NumPy  EDA    Query JOINs  Data Cleaning  Pivot
+        │     │     │       │   │   │        │   │   │
+        └─────┴─────┘       └───┴───┘        └───┴───┘
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                         📈 POWER BI
+                                │
+                       Dashboards & Insights
+                                │
+                         💡 DECISIONS
